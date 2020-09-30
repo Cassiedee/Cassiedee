@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I code on occasion, believe it or not. I'm a dedicated person to learning the workings of digital security and information security.
+
 <!--
 **Cassiedee/Cassiedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
