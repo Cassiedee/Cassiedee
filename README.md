@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I code on occasion, believe it or not. I'm a dedicated person to learning the workings of digital security and information security.
+I code on occasion, believe it or not. I'm a dedicated person to learning the workings of digital security and information security. I am currently attending the University of California, Los Angeles majoring in, you guessed it, Computer Science. I have most of the CompTIA+ Certifications out of the way. I'm just missing CASP+, PenTest+, and CTT+ from with the suite. I am also working towards getting a CEHv11 certification in addition to the rest of CompTIA+. Fun Fact: I used to be infatuated into pursuing a carrer in the beauty industry until I realized that it wasn't worthwhile.
 
 <!--
 **Cassiedee/Cassiedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
