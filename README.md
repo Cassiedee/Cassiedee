@@ -4,6 +4,7 @@
 
 I code on occasion, believe it or not. I'm a dedicated person to learning the workings of digital security and information security. I am currently attending the University of California, Los Angeles majoring in, you guessed it, Computer Science. I have most of the CompTIA+ Certifications out of the way. I'm just missing CASP+, PenTest+, and CTT+ from with the suite. I am also working towards getting a CEHv11 certification in addition to the rest of CompTIA+. Fun Fact: I used to be infatuated into pursuing a carrer in the beauty industry until I realized that it wasn't worthwhile. If you would like to contact me, feel free to message me on **[LinkedIn](https://www.linkedin.com/in/cassidy-nguyen-99877a1a7/)**.
 
+<a href="https://www.buymeacoffee.com/cassidynguyen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <!--
 **Cassiedee/Cassiedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
